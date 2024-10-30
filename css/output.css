@@ -570,6 +570,10 @@ video {
   display: flex;
 }
 
+.hidden {
+  display: none;
+}
+
 .w-1 {
   width: 0.25rem;
 }
